@@ -286,3 +286,6 @@ The source code is distributed under the license included in this repository.
 
 The medical-imaging and fingerprint datasets used in the study are licensed by their original providers and remain subject to their respective licenses, data-use agreements, citation requirements, and redistribution conditions.
 
+## Contributions
+
+Contributions are welcome through GitHub issues and pull requests. Contributors should document methodological or parameter changes, use reproducible settings, and comply with applicable medical-data and third-party dataset licenses.
